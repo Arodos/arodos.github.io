@@ -1,0 +1,13 @@
+Package: com.arodos.spinmusiccontrol
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Arodos <barth.dominic@web.de>
+Filename: /SpinMusicControl.deb
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Tweaks
+Description: Spin Music Controls on Lockscreen.
+Author: Arodos <barth.dominic@web.de>
+Name: SpinMusicControl
