@@ -2,12 +2,13 @@ Package: com.arodos.spinlockscreen
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Arodos <support@arodos.com>
-Filename: /SpinLockScreen.deb
-Size: 3500
-MD5sum: e6506e1c06e2d75a647c737afc592437
-SHA1: 3cfa8562addcc9e64a6c893edb2a06c67e5d9a9a
-SHA256: deb98071006db40d80ecda9d7fd3a9bdd3912183ff2505e9bc847deaf8bf6199
+Filename: ./debs/SpinLockScreen.deb
+Size: 3504
+MD5sum: 49427132103ba2a0d783ff449c7a5e3e
+SHA1: 0b43d014d8533a534c15ebfaf058dec850efb54e
+SHA256: 00140e26030ce04e14729c3e0a2b16e4ef52c8d0aaa57e7d1dc512639d7ef7fb
 Section: Tweaks
 Description: Circular Music Settings on Lock Screen.
+Homepage: jojoii.bplaced.net
 Author: Arodos <support@arodos.com>
 Name: Spin Lock Screen
